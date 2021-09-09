@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-RegularItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-SemiBoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-BlackItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-BoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-ThinItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-SemiBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-HeavyItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Heavy.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-MediumItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-UltraLightItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-UltraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Black.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-LightItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-ExtraBoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fontasy';
+    src: url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-UltraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Ridder90/Fontasy@1.1/Fontasy-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
